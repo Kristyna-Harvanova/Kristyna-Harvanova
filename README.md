@@ -10,12 +10,13 @@ https://aleksandarpopovic.com/Easiest-way-to-set-up-your-Github-profile-page/
 --->
 
 <!---
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
---->
 [![Instagram Badge](https://img.shields.io/badge/-@kristynaharvanova-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kristynaharvanova/)](https://www.instagram.com/kristynaharvanova/)
-[![Facebook Badge](https://img.shields.io/badge/-Kristýna_Harvanová-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kristyna.harvanova)](https://www.facebook.com/kristyna.harvanova)
-[![Discord Badge](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white&link=)](https://www.discordapp.com/users/kristynaharvanova)
+--->
+[![Instagram](https://img.shields.io/badge/@kristynaharvanova-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kristynaharvanova/)
+[![Facebook](https://img.shields.io/badge/Kristýna_Harvanová-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kristyna.harvanova)
+[![Discord](https://img.shields.io/badge/kristynaharvanova-%235865F2.svg?style=flat-square&logo=discord&logoColor=white&link=)](https://www.discordapp.com/users/kristynaharvanova)
 <!---
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 --->
 
