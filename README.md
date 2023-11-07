@@ -1,15 +1,20 @@
-# Hi I'm Kristýna 👋
+# Hi, I'm Kristýna 👋
 
 <!---
 Kristyna-Harvanova/Kristyna-Harvanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+https://ileriayo.github.io/markdown-badges/
+
+https://aleksandarpopovic.com/Easiest-way-to-set-up-your-Github-profile-page/
 --->
 
 <!---
 [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
 --->
-[![Instagram Badge](https://img.shields.io/badge/-@kristynaharvanova-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/kristynaharvanova/)](https://www.instagram.com/kristynaharvanova/)
-[![Facebook Badge](https://img.shields.io/badge/-Kristýna_Harvanová-darkblue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/kristyna.harvanova)](https://www.facebook.com/kristyna.harvanova)
+[![Instagram Badge](https://img.shields.io/badge/-@kristynaharvanova-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kristynaharvanova/)](https://www.instagram.com/kristynaharvanova/)
+[![Facebook Badge](https://img.shields.io/badge/-Kristýna_Harvanová-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kristyna.harvanova)](https://www.facebook.com/kristyna.harvanova)
+[![Discord Badge](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white&link=)](https://www.discordapp.com/users/kristynaharvanova)
 <!---
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 --->
@@ -21,6 +26,18 @@ Welcome! I'm a student, musician, and a tutor, currently living and studying in 
 - 🎭 As a teacher I work with young musical theater’s talents. We are currently finalists of [DWC](https://www.dwcworld.com) for the 4th time in a row.
 - 🎤 I’m an active member of the famous [Kühn’s choir](https://www.kuhnchoir.cz/en).
 - 💖 I try to learn new things in all different kinds of fields. I believe that the more one knows, the more one can enjoy life and see the beauty in it.
+
+
+## Programming languages:
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
+[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+
+<!---
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+Prolog
+--->
 
 
 ## Last projects:
