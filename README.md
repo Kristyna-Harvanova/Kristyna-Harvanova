@@ -14,9 +14,9 @@ https://aleksandarpopovic.com/Easiest-way-to-set-up-your-Github-profile-page/
 --->
 [![Instagram](https://img.shields.io/badge/@kristynaharvanova-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kristynaharvanova/)
 [![Facebook](https://img.shields.io/badge/Kristýna_Harvanová-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kristyna.harvanova)
-[![Discord](https://img.shields.io/badge/kristynaharvanova-%235865F2.svg?style=flat-square&logo=discord&logoColor=white&link=)](https://www.discordapp.com/users/kristynaharvanova)
+[![Discord](https://img.shields.io/badge/kristynaharvanova-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/kristynaharvanova)
+[![Linkedin Badge](https://img.shields.io/badge/Kristýna_Harvanová-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kristýna-harvanová-65588629a)
 <!---
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 --->
 
