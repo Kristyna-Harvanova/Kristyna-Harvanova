@@ -34,13 +34,12 @@ Welcome! I'm a student, musician, and a tutor, currently living and studying in 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-
-<!---
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-Prolog
---->
-
+[![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
+[![Prolog](https://img.shields.io/badge/Prolog-black?style=for-the-badge)](https://www.swi-prolog.org/)
 
 ## Last projects:
+- [Postprocessing of Synthetic Sheet Music in the Context of Optical Music Recognition](https://github.com/Kristyna-Harvanova/Bachelor-Thesis) - my bachelor thesis, currently in progress.
+- [Rubik's Cube Solver](https://github.com/Kristyna-Harvanova/Non-procedural-Programming/tree/main/_Program) - a program for finding moves to solve a Rubik's cube in Prolog language.
 - [Jazz Chord Generator](https://github.com/Kristyna-Harvanova/Jazz-Chord-Generator) - a little help for jazz musicians. I know, we don't want to, but let's go practice!
-- [](https://github.com/Jirka-Mayer/Mashcima2)
+- [Mashcima](https://github.com/Jirka-Mayer/Mashcima2) - contributor to a Python library that produces synthetic images of monophonic handwritten music.
+- [Hungry Horace](https://github.com/Kristyna-Harvanova/Hungry-Horace/tree/main) - a game inspired by famous Pac-Man using strategies and search algorithms.
