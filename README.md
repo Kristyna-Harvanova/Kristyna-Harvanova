@@ -22,7 +22,7 @@ https://aleksandarpopovic.com/Easiest-way-to-set-up-your-Github-profile-page/
 
 Welcome! I'm a student, musician, and a tutor, currently living and studying in [Prague](https://en.wikipedia.org/wiki/Prague), [Czech Republic](https://en.wikipedia.org/wiki/Czech_Republic).
 
-- 👩‍💻 I’m studying AI - Natural Language Processing at the [Faculty of Mathematics and Physics](https://www.mff.cuni.cz/en) of [Charles University](https://cuni.cz/UKEN-1.html).
+- 👩‍💻 I’m studying Computer Science - Language Technologies and Computational Linguistics at the Institute of Formal and Applied Linguistics ([ÚFAL](https://ufal.mff.cuni.cz)), [Faculty of Mathematics and Physics](https://www.mff.cuni.cz/en) of [Charles University](https://cuni.cz/UKEN-1.html).
 - 🎹 At the same time, I’m studying piano (jazz and classical) at the [Jaroslav Ježek’s Conservatory](https://www.kjj.cz/).
 - 🎭 As a teacher I work with young musical theater’s talents. We are currently finalists of [DWC](https://www.dwcworld.com) for the 4th time in a row.
 - 🎤 I’m an active member of the famous [Kühn’s choir](https://www.kuhnchoir.cz/en).
